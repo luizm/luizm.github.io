@@ -20,14 +20,5 @@
       <description> TODO </description>
     </item>
     
-    <item>
-      <title>First Post</title>
-      <link>https://luizm.dev/posts/first/</link>
-      <pubDate>Thu, 30 May 2019 21:55:53 -0300</pubDate>
-      
-      <guid>https://luizm.dev/posts/first/</guid>
-      <description> TODO </description>
-    </item>
-    
   </channel>
 </rss>
