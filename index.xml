@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://luizm.github.io/</link>
+    <link>https://luizm.dev/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br-us</language>
     <lastBuildDate>Thu, 30 May 2019 22:00:20 -0300</lastBuildDate>
     
-	<atom:link href="https://luizm.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luizm.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://luizm.github.io/about/</link>
+      <link>https://luizm.dev/about/</link>
       <pubDate>Thu, 30 May 2019 22:00:20 -0300</pubDate>
       
-      <guid>https://luizm.github.io/about/</guid>
+      <guid>https://luizm.dev/about/</guid>
       <description> TODO </description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>https://luizm.github.io/posts/first/</link>
+      <link>https://luizm.dev/posts/first/</link>
       <pubDate>Thu, 30 May 2019 21:55:53 -0300</pubDate>
       
-      <guid>https://luizm.github.io/posts/first/</guid>
+      <guid>https://luizm.dev/posts/first/</guid>
       <description> TODO </description>
     </item>
     

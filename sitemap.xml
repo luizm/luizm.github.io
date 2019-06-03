@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://luizm.github.io/</loc>
+    <loc>https://luizm.dev/</loc>
     <lastmod>2019-05-30T22:00:20-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://luizm.github.io/about/</loc>
+    <loc>https://luizm.dev/about/</loc>
     <lastmod>2019-05-30T22:00:20-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luizm.github.io/posts/first/</loc>
+    <loc>https://luizm.dev/posts/first/</loc>
     <lastmod>2019-05-30T21:55:53-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luizm.github.io/posts/</loc>
-    <lastmod>2019-05-30T21:55:53-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://luizm.github.io/tags/</loc>
+    <loc>https://luizm.dev/posts/</loc>
     <lastmod>2019-05-30T21:55:53-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://luizm.github.io/tags/untagged/</loc>
+    <loc>https://luizm.dev/tags/</loc>
     <lastmod>2019-05-30T21:55:53-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://luizm.github.io/categories/</loc>
+    <loc>https://luizm.dev/tags/untagged/</loc>
+    <lastmod>2019-05-30T21:55:53-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luizm.dev/categories/</loc>
     <priority>0</priority>
   </url>
   

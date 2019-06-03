@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>https://luizm.github.io/posts/</link>
+    <link>https://luizm.dev/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br-us</language>
     <lastBuildDate>Thu, 30 May 2019 21:55:53 -0300</lastBuildDate>
     
-	<atom:link href="https://luizm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luizm.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://luizm.github.io/posts/first/</link>
+      <link>https://luizm.dev/posts/first/</link>
       <pubDate>Thu, 30 May 2019 21:55:53 -0300</pubDate>
       
-      <guid>https://luizm.github.io/posts/first/</guid>
+      <guid>https://luizm.dev/posts/first/</guid>
       <description> TODO </description>
     </item>
     
