@@ -6,19 +6,9 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br-us</language>
-    <lastBuildDate>Thu, 30 May 2019 22:00:20 -0300</lastBuildDate>
     
 	<atom:link href="https://luizm.dev/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://luizm.dev/about/</link>
-      <pubDate>Thu, 30 May 2019 22:00:20 -0300</pubDate>
-      
-      <guid>https://luizm.dev/about/</guid>
-      <description> TODO </description>
-    </item>
     
   </channel>
 </rss>
