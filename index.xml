@@ -6,9 +6,22 @@
     <description>Recent content on Luiz Muller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2020 12:16:29 -0300</lastBuildDate>
     
 	<atom:link href="https://luizm.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hi there, :)</title>
+      <link>https://luizm.dev/whoami/</link>
+      <pubDate>Tue, 28 Apr 2020 12:16:29 -0300</pubDate>
+      
+      <guid>https://luizm.dev/whoami/</guid>
+      <description>My name is Luiz Muller I’m Brazilian and living in Joinville/SC.
+I’ve been working on different projects and scopes related to DevOps culture and SRE at lest 6 years.
+I have a solid knowledge of AWS, Kubernetes, Linux systems, and network (a little bit rusty), but lately, I’ve more interest in code to solve infrastructure problems.
+Currently, I’m an SRE engineer at Stone and work remotely.</description>
+    </item>
     
   </channel>
 </rss>
