@@ -1,26 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luiz Muller</title>
     <link>https://luizm.dev/</link>
     <description>Recent content on Luiz Muller</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2020 12:16:29 -0300</lastBuildDate>
-    
-	<atom:link href="https://luizm.dev/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://luizm.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hi there, :)</title>
       <link>https://luizm.dev/whoami/</link>
-      <pubDate>Tue, 28 Apr 2020 12:16:29 -0300</pubDate>
+      <pubDate>Fri, 03 Dec 2021 18:38:29 -0300</pubDate>
       
       <guid>https://luizm.dev/whoami/</guid>
       <description>My name is Luiz Muller I’m Brazilian and living in Joinville/SC.
-I’ve been working on different projects and scopes related to DevOps culture and SRE at lest 7 years.
-I have a solid knowledge of AWS, Kubernetes, Linux systems, and network (a little bit rusty), but lately, I’ve more interest in code to solve infrastructure problems.
-Currently, I’m an SRE Engineer at Totvs Labs.</description>
+I’ve been working on different projects and scopes related Linux, DevOps culture and SRE at lest 12 years.
+To get more details please check my social profiles or if want fell free to reach me out.</description>
     </item>
     
   </channel>
